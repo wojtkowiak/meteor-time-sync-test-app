@@ -1,0 +1,10 @@
+{
+    "JsonProtocol": {
+        "id": 1,
+        "package": "omega:custom-protocol"
+    },
+    "TimeSyncProtocol": {
+        "id": 2,
+        "package": "omega:time-sync"
+    }
+}
